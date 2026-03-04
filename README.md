@@ -1,3 +1,4 @@
-# Akshat-Sharma
+# Diwakar-singh
 A fascinating Personal Portfolio made from html , css , javascript.
-https://akshat-1290.github.io/portfolio/
+https://diwakar0018.github.io/portfolio/
+
